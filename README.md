@@ -17,3 +17,5 @@ This is a powerful ESP32 Wi-Fi jammer, Beacon spammer, And sniffer. See the Guid
 - Beacon Spam - Creates fake "FREE_WIFI" networks
 - Channel Hopping - Cycles through all 2.4GHz channels
 - MAC Randomization - Makes tracking harder
+
+Have fun!
